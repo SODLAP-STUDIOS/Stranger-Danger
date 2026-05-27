@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"A cypher A=0 to Z =25","effects":[],"hitType":0,"iconIndex":176,"itypeId":2,"name":"A code","note":"","occasion":2,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":0,"tpGain":0},
+{"id":2,"animationId":-1,"consumable":false,"damage":{"critical":false,"elementId":1,"formula":"0","type":1,"variance":20},"description":"","effects":[],"hitType":1,"iconIndex":223,"itypeId":1,"name":"A hammer","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":80,"tpGain":0}
+]
