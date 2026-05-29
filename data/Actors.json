@@ -1,6 +1,0 @@
-[
-null,
-{"id":1,"battlerName":"MAINCHARACTERBATTLER","characterIndex":0,"characterName":"!MAINCHARACTERwalk","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"MAINCHARACTERNORMAL","traits":[],"initialLevel":1,"maxLevel":99,"name":"Harriet","nickname":"Harriet","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"KIDNAPPERBATTLER","characterIndex":0,"characterName":"!KIDNAPPERWALK","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"KIDNAPPERNORMAL","traits":[],"initialLevel":3,"maxLevel":99,"name":"Choco","nickname":"Martyr","note":"","profile":"Choco is the one that kidnaps you into this weird world"}
-]
